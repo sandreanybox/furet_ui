@@ -22,4 +22,5 @@ Welcome to FuretUI's documentation!
    API.rst
    server.rst
    reducer.rst
+   howto.rst
    LICENSE.rst
